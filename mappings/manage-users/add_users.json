@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/api/add/single/user"
+  },
+  "response": {
+    "status": 200,
+    "fixedDelayMilliseconds": 1000,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "manage-users/add_users.json"
+  }
+}
